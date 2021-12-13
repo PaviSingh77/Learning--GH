@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F17EB5D27680DFB006DD9D2 /* Mymodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F17EB5C27680DFB006DD9D2 /* Mymodel.swift */; };
 		5F5C20682766CA230031E700 /* LEARNING_GITHUBApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5C20672766CA230031E700 /* LEARNING_GITHUBApp.swift */; };
 		5F5C206A2766CA230031E700 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5C20692766CA230031E700 /* ContentView.swift */; };
 		5F5C206C2766CA250031E700 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F5C206B2766CA250031E700 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F17EB5C27680DFB006DD9D2 /* Mymodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mymodel.swift; sourceTree = "<group>"; };
 		5F5C20642766CA230031E700 /* LEARNING GITHUB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LEARNING GITHUB.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5C20672766CA230031E700 /* LEARNING_GITHUBApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEARNING_GITHUBApp.swift; sourceTree = "<group>"; };
 		5F5C20692766CA230031E700 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				5F5C20692766CA230031E700 /* ContentView.swift */,
 				5F5C206B2766CA250031E700 /* Assets.xcassets */,
 				5F5C206D2766CA250031E700 /* Preview Content */,
+				5F17EB5C27680DFB006DD9D2 /* Mymodel.swift */,
 			);
 			path = "LEARNING GITHUB";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F17EB5D27680DFB006DD9D2 /* Mymodel.swift in Sources */,
 				5F5C206A2766CA230031E700 /* ContentView.swift in Sources */,
 				5F5C20682766CA230031E700 /* LEARNING_GITHUBApp.swift in Sources */,
 			);
